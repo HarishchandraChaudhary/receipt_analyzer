@@ -14,7 +14,7 @@ Follow these steps to get the application up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/receipt-analyzer-assignment.git](https://github.com/YOUR_USERNAME/receipt-analyzer-assignment.git)
+    git clone [https://github.com/harishchandrachaudhary/receipt-analyzer-assignment.git](https://github.com/harishchandrachaudhary/receipt-analyzer-assignment.git)
     cd receipt-analyzer-assignment
     ```
     (Replace `YOUR_USERNAME` with your GitHub username)
