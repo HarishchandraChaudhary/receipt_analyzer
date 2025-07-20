@@ -107,8 +107,4 @@ The application follows a client-server architecture:
 * **Local Deployment:** The application is designed for local deployment, with the frontend and backend running on the same machine (or accessible over a local network).
 * **Positive Amounts:** The application assumes that all valid receipt amounts will be greater than zero.
 * **Timezone:** Dates are handled as naive `datetime` objects. For a production system, explicit timezone handling would be crucial.
-
-## (Optional) Video Demonstration
-A 2-3 minute video or screen recording demonstrating the project's key functionalities (uploading, viewing, editing, insights) would be a great addition. You can use tools like OBS Studio, Loom, or your operating system's built-in screen recorder.
-
 ---
